@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "731912839658",
+    "firebase_url": "https://zacksmagnificentauthenticator.firebaseio.com",
+    "project_id": "zacksmagnificentauthenticator",
+    "storage_bucket": "zacksmagnificentauthenticator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731912839658:android:84957786f198717a",
+        "android_client_info": {
+          "package_name": "com.zackeryrobinson.zacksmagnificentfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731912839658-o8g44jkko56pi30cjipt9hrcek2qirqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTRr6h_lPDcKT_T6oPOJ6vVaAompVAvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89468578732",
+    "firebase_url": "https://zacksmagnificentfirebase.firebaseio.com",
+    "project_id": "zacksmagnificentfirebase",
+    "storage_bucket": "zacksmagnificentfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89468578732:android:84957786f198717a",
+        "android_client_info": {
+          "package_name": "com.zackeryrobinson.zacksmagnificentfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89468578732-jl0kmq3agpv6m68hfv43acuo715ksogf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zackeryrobinson.zacksmagnificentfirebase",
+            "certificate_hash": "d205b37346e8077a64ed189b52d6894bbbbe7b43"
+          }
+        },
+        {
+          "client_id": "89468578732-q1dbbdn0cfpc3476un30vr2rrr230rtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCsQ5UDL-3oTw8zknrVZaYaOLp-_yi5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89468578732-q1dbbdn0cfpc3476un30vr2rrr230rtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
